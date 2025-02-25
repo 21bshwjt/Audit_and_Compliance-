@@ -8,3 +8,5 @@
 
 ### 4. Devoloped a PowerShell Tool for ACLs for Organizational Units.
 
+### 5. Built Active Directory Assessment Tool.
+
