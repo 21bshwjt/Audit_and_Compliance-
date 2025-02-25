@@ -12,3 +12,6 @@
 
 ### 6. Automated the process of disabling old secrets from Azure Key Vault. 
 
+Biswajit Biswas
+Email : bshwjt@gmail.com
+
