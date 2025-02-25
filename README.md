@@ -10,3 +10,5 @@
 
 ### 5. Built Active Directory Assessment Tool.
 
+### 6. Automated the process of disabling old secrets from Azure Key Vault. 
+
